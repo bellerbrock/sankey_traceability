@@ -203,30 +203,30 @@
     {"name":"19Trial3-9"},
     {"name":"19Trial3-10"}
   ],
-  [
-    { title: "17Nursery",
-      nodes: ["17Cross1", "17Cross2", "17Cross3", "17Cross4", "17Cross5", "17Cross6", "17Cross7", "17Cross8", "17Cross9", "17Cross10"]
+  "groups": [
+    { "title": "17Nursery",
+      "nodes": ["17Cross1", "17Cross2", "17Cross3", "17Cross4", "17Cross5", "17Cross6", "17Cross7", "17Cross8", "17Cross9", "17Cross10"]
     },
-    { title: "18Trial1",
-      nodes: ["18Trial1-1","18Trial1-2","18Trial1-3","18Trial1-4","18Trial1-5","18Trial1-6","18Trial1-7","18Trial1-8","18Trial1-9","18Trial1-10"]
+    { "title": "18Trial1",
+      "nodes": ["18Trial1-1","18Trial1-2","18Trial1-3","18Trial1-4","18Trial1-5","18Trial1-6","18Trial1-7","18Trial1-8","18Trial1-9","18Trial1-10"]
     },
-    { title: "18Trial2",
-      nodes: ["18Trial2-1","18Trial2-2","18Trial2-3","18Trial2-4","18Trial2-5","18Trial2-6","18Trial2-7","18Trial2-8","18Trial2-9","18Trial2-10"]
+    { "title": "18Trial2",
+      "nodes": ["18Trial2-1","18Trial2-2","18Trial2-3","18Trial2-4","18Trial2-5","18Trial2-6","18Trial2-7","18Trial2-8","18Trial2-9","18Trial2-10"]
     },
-    { title: "18Trial3",
-      nodes: ["18Trial3-1","18Trial3-2","18Trial3-3","18Trial3-4","18Trial3-5","18Trial3-6","18Trial3-7","18Trial3-8","18Trial3-9","18Trial3-10"]
+    { "title": "18Trial3",
+      "nodes": ["18Trial3-1","18Trial3-2","18Trial3-3","18Trial3-4","18Trial3-5","18Trial3-6","18Trial3-7","18Trial3-8","18Trial3-9","18Trial3-10"]
     },
-    { title: "18Nursery",
-      nodes: ["18Nursery-1","18Nursery-2","18Nursery-3","18Nursery-4","18Nursery-5"]
+    { "title": "18Nursery",
+      "nodes": ["18Nursery-1","18Nursery-2","18Nursery-3","18Nursery-4","18Nursery-5"]
     },
-    { title: "19Trial1",
-      nodes: ["19Trial1-1","19Trial1-2","19Trial1-3","19Trial1-4","19Trial1-5","19Trial1-6","19Trial1-7","19Trial1-8","19Trial1-9","19Trial1-10"]
+    { "title": "19Trial1",
+      "nodes": ["19Trial1-1","19Trial1-2","19Trial1-3","19Trial1-4","19Trial1-5","19Trial1-6","19Trial1-7","19Trial1-8","19Trial1-9","19Trial1-10"]
     },
-    { title: "19Trial2",
-      nodes: ["19Trial2-1","19Trial2-2","19Trial2-3","19Trial2-4","19Trial2-5","19Trial2-6","19Trial2-7","19Trial2-8","19Trial2-9","19Trial2-10"]
+    { "title": "19Trial2",
+      "nodes": ["19Trial2-1","19Trial2-2","19Trial2-3","19Trial2-4","19Trial2-5","19Trial2-6","19Trial2-7","19Trial2-8","19Trial2-9","19Trial2-10"]
     },
-    { title: "19Trial3",
-      nodes: ["19Trial3-1","19Trial3-2","19Trial3-3","19Trial3-4","19Trial3-5","19Trial3-6","19Trial3-7","19Trial3-8","19Trial3-9","19Trial3-10"]
+    { "title": "19Trial3",
+      "nodes": ["19Trial3-1","19Trial3-2","19Trial3-3","19Trial3-4","19Trial3-5","19Trial3-6","19Trial3-7","19Trial3-8","19Trial3-9","19Trial3-10"]
     }
   ]
 }
